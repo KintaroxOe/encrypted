@@ -1,15 +1,30 @@
-11/07/2025 22:14
-effect_no_corpses.ggpx 1824
-effect_spells_disable.ggpx 14425968
-effect_spells_enable.ggpx 83776144
-effect_unqiue_trampletoe_disabled.ggpx 9744
-effect_mtx_enable.ggpx 39330720
-effect_raging_spirits_disabled.ggpx 4768
-effect_monster_skills_disabled.ggpx 16135952
-effect_monster_skills_enabled.ggpx 64149520
-
-
-
-
-
-
+11/07/2025 22:15
+STATE AOB - NORMAL
+0x3E736E8
+STATE AOB - STEAM
+0x3E736E8
+STATE AOB - EPIC GAMES 
+0x3E736E8
+STATE AOB - TAIWAN
+0x3E736E8
+---------
+---------
+0x41FBD10
+0x41FBD10
+0x41FBD10
+---------
+0x20
+0x0
+0x218
+0x8D0
+0x10
+0x20
+---------
+0x1A8
+0x1A4
+---------
+0x240
+0x23C
+---------
+0x1F8
+0x1F4
